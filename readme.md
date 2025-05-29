@@ -37,9 +37,9 @@ Beginner-friendly implementations for deep learning basics
 ---
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/josmy-mathew)  
-- 💻 [GitHub](https://github.com/josmyrose)  
-- ✉️ Email: [your email here]
+- 💼 [LinkedIn](https://www.linkedin.com/in/josmymathew/) 
+- 💻 [GitHub](https://github.com/josmyrose) 
+- ✉️ Email: [josmyrose@gmail.com]
 
 ---
 
