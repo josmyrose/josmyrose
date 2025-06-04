@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Josmy Mathew!
 
-🎯 **Aspiring Data Scientist | AI Enthusiast | Former Educator | Open to Data Science & Engineering Roles**
-
+🎯 **Aspiring Data Scientist & Researcher| AI Enthusiast | AI/ML | NLP | Public Impact Project| Ex-Academician | Open to Data Science & Engineering Roles**
+ 
 I'm passionate about building data-driven solutions that create real-world impact. With a strong foundation in machine learning, statistics, and software development, I’ve transitioned from academia to the tech industry with a focus on applied data science.
 
 ---
