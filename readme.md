@@ -11,7 +11,7 @@ I'm passionate about building data-driven solutions that create real-world impac
 - **Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, PyTorch
 - **ML & AI**: Classification, NLP, Clustering, Causal Inference
 - **Big Data**: Apache Spark, HDFS, Kafka (Basics)
-- **Cloud & DevOps**: AWS (S3, Lambda, EC2), Git, Flask, Streamlit
+- **Cloud & DevOps**: Microsoft Azure, Git, Flask, Streamlit
 - **Data Engineering**: Redis Queue (RQ), Web Scraping, REST APIs
 
 ---
@@ -51,3 +51,4 @@ Beginner-friendly implementations for deep learning basics
 ---
 
 ⭐ *Currently seeking opportunities in Data Science, Machine Learning, or Data Engineering. Let's build the future with data!*
+
