@@ -1,40 +1,42 @@
 # 👋 Hi there, I'm Josmy Mathew!
 
-🎯 **Aspiring Data Scientist & Researcher| AI Enthusiast | AI/ML | NLP | Public Impact Project| Ex-Academician | Open to Data Science & Engineering Roles**
- 
-I'm passionate about building data-driven solutions that create real-world impact. With a strong foundation in machine learning, statistics, and software development, I’ve transitioned from academia to the tech industry with a focus on applied data science.
+# Hi, I'm Josmy 👋
+
+🚀 Full Stack AI Consultant  
+🎯 Building real-world AI applications (LLMs, RAG, dashboards)
 
 ---
 
-## 🔧 Technologies & Tools
-- **Languages**: Python, SQL, HTML/CSS
-- **Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, PyTorch
-- **ML & AI**: Classification, NLP, Clustering, Causal Inference
-- **Big Data**: Apache Spark, HDFS, Kafka (Basics)
-- **Cloud & DevOps**: Microsoft Azure, Git, Flask, Streamlit
-- **Data Engineering**: Redis Queue (RQ), Web Scraping, REST APIs
+## 🔥 What I Do
+- Build AI-powered web apps (FastAPI + React)
+- Deploy ML models into production
+- Design end-to-end data pipelines
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Featured Projects
 
-🔹 **[Healthcare Policy Impact Dashboard](https://github.com/your-link)**  
-Analyzing the effect of removing user fees on maternal & child healthcare using ML & causal inference  
-*Tech: Flask, Scikit-learn, Dash, Pandas, Plotly*
+### 1. AI Legal Assistant
+- RAG + Vector DB (ChromaDB / FAISS)
+- FastAPI backend + React frontend
+- Document upload + chat + summarization
 
-🔹 **[Disease Prediction Chatbot](https://github.com/your-link)**  
-Symptom-based disease prediction using NLP and LLMs with Gemini API translation  
-*Tech: Flask, Streamlit, Google Gemini API*
+### 2. Disease Prediction Chatbot
+- NLP + ML model + Gemini API
+- CLI + Web version
 
-🔹 **[Real-Time Profile Analyzer](https://github.com/your-link)**  
-Profile analysis dashboard using Random Forest and user authentication  
-*Tech: Flask, ML, Redis Queue*
-
-🔹 **[PyTorch Tutorial Notebooks](https://github.com/josmyrose/Pytorch-tutorial)**  
-Beginner-friendly implementations for deep learning basics  
-*Tech: PyTorch, Jupyter*
+### 3. SQL Benchmarking Engine
+- Pandas vs DuckDB performance analysis
 
 ---
+
+## 🛠 Tech Stack
+Python | FastAPI | React | Docker | Azure | SQL | LLMs
+
+---
+
+
+
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/josmymathew/) 
