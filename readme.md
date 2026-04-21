@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Josmy Mathew!
 
-# Hi, I'm Josmy 👋
+
 
 🚀 Full Stack AI Consultant  
 🎯 Building real-world AI applications (LLMs, RAG, dashboards)
@@ -52,5 +52,5 @@ Python | FastAPI | React | Docker | Azure | SQL | LLMs
 
 ---
 
-⭐ *Currently seeking opportunities in Data Science, Machine Learning, or Data Engineering. Let's build the future with data!*
+⭐ *Currently seeking opportunities in Fullstack Data Science, Machine Learning, or Data Engineering. Let's build the future with data!*
 
