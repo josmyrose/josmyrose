@@ -11,9 +11,11 @@
 ---
 
 ## 🔥 What I Do
-- Build AI-powered web apps (FastAPI + React)
-- Deploy ML models into production
-- Design end-to-end data pipelines
+🤖 Build AI/GenAI applications using LLMs, RAG and MCP
+
+📊 Develop and deploy machine-learning and data-science solutions
+
+⚙️ Build production-ready APIs and end-to-end data pipelines
 
 ---
 
