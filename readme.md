@@ -31,7 +31,7 @@
 * Secure authentication and scalable APIs
 * Docker, CI/CD and Azure support
 
-🔗 **[View Research AI Platform on GitHub](https://github.com/josmyrose/research-ai-platform)**
+🔗 **[View Research AI Platform on GitHub]([https://github.com/josmyrose/research-ai-platform])**
 
 ### 2. AI Legal Assistant
 - RAG + Vector DB (ChromaDB / FAISS)
