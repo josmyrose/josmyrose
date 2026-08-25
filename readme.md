@@ -2,8 +2,9 @@
 
 
 
-🚀 Full Stack AI Consultant  
-🎯 Building real-world AI applications (LLMs, RAG, dashboards)
+🚀 Data Scientist | AI/ML Engineer
+🎯 GenAI | MCP | Python | SQL | NLP
+🏆 Microsoft Certified: Azure Data Scientist Associate (DP-100)
 
 ---
 
