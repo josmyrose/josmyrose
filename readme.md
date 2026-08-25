@@ -21,16 +21,20 @@
 
 ## 🧠 Featured Projects
 
-### 1. AI Legal Assistant
+### 1. Research AI platform
+- RAG + Vector DB (ChromaDB / FAISS)
+- FastAPI backend + React frontend
+- Document upload + chat + summarization
+### 2. AI Legal Assistant
 - RAG + Vector DB (ChromaDB / FAISS)
 - FastAPI backend + React frontend
 - Document upload + chat + summarization
 
-### 2. Disease Prediction Chatbot
+### 3. Disease Prediction Chatbot
 - NLP + ML model + Gemini API
 - CLI + Web version
 
-### 3. SQL Benchmarking Engine
+### 4. SQL Benchmarking Engine
 - Pandas vs DuckDB performance analysis
 
 ---
