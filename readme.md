@@ -21,10 +21,18 @@
 
 ## 🧠 Featured Projects
 
-### 1. Research AI platform
-- RAG + Vector DB (ChromaDB / FAISS)
-- FastAPI backend + React frontend
-- Document upload + chat + summarization
+### 1. Research AI Platform
+
+**AI-powered research assistant for interacting with scientific content using RAG, semantic search and LLMs.**
+
+* RAG + Vector DB (ChromaDB / FAISS)
+* FastAPI backend + React frontend
+* Document upload, chat and summarization
+* Secure authentication and scalable APIs
+* Docker, CI/CD and Azure support
+
+🔗 **[View Research AI Platform on GitHub](https://github.com/josmyrose/research-ai-platform)**
+
 ### 2. AI Legal Assistant
 - RAG + Vector DB (ChromaDB / FAISS)
 - FastAPI backend + React frontend
