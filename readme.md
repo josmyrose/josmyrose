@@ -3,7 +3,9 @@
 
 
 🚀 Data Scientist | AI/ML Engineer
+
 🎯 GenAI | MCP | Python | SQL | NLP
+
 🏆 Microsoft Certified: Azure Data Scientist Associate (DP-100)
 
 ---
