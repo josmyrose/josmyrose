@@ -1,21 +1,16 @@
 # 👋 Hi there, I'm Josmy Mathew!
 
-Database Developer | Data Engineer | Data Analyst | AI Engineer
+I am a Data and AI professional with a background in database development, data engineering, data analytics and applied artificial intelligence.
 
-Python | SQL | PostgreSQL | SQLite | ETL | Data Modelling | Machine Learning | LLMs | RAG
+I build data pipelines, design relational databases, analyse complex datasets and develop AI-powered applications. My recent projects include UN Noon Briefings analysis with CorrelAid, German public statistics and hospital data analytics, and a full-stack Research AI Platform using Retrieval-Augmented Generation (RAG).
 
-M.Sc. Data Science, AI & Digital Business | Microsoft Certified: Azure Data Scientist Associate (DP-100)
+I am interested in opportunities in Database Development, Data Engineering, Data Analytics, Data Science and AI Engineering.
 
 
 
 ---
 
 ## 🔥 What I Do
-I am a Data and AI professional with a background in database development, data engineering, data analytics and applied artificial intelligence.
-
-I build data pipelines, design relational databases, analyse complex datasets and develop AI-powered applications. My recent projects include UN Noon Briefings analysis with CorrelAid, German public statistics and hospital data analytics, and a full-stack Research AI Platform using Retrieval-Augmented Generation (RAG).
-
-I am interested in opportunities in Database Development, Data Engineering, Data Analytics, Data Science and AI Engineering.
 
 ---
 
